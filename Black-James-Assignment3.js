@@ -3,4 +3,13 @@
 // Project 2
 //
 
-// var, function, 
+// var, function, // json
+var artistInfo = {
+    "artist": [
+        { artistFirstName: "Caleb",
+          artistLastName: "Hart",
+          artistBudget: 1000.00,
+          artistCostPerSong: 350.00
+        }
+    ],    
+};
