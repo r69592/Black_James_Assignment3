@@ -96,7 +96,7 @@ while (songs > 0) {
         console.log(" No new songs recorded.")
     }
 }
-  
+
 // My Boolean 
 var Caleb = true, recording = false, work = false;
 
