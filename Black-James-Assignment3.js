@@ -97,3 +97,13 @@ while (songs > 0) {
     }
 }
   
+// My Boolean 
+var Caleb = true, recording = false, work = false;
+
+if ((Caleb && recording) || work) {
+        console.log("Caleb is true");
+    } else {
+        console.log("Caleb is false");
+    }
+    
+console.log("Caleb is " + ((Caleb && recording) || work));
