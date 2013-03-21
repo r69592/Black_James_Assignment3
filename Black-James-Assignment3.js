@@ -88,7 +88,7 @@ while (songs > 0) {
     console.log("Caleb just recorded new songs with his budget,");
     
     songs = songs - 1;
-    
+ // nested loop   
     if (songs > 0) {
         //True
         console.log(songs + " new song is being recorded.");
